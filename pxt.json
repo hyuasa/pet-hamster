@@ -10,7 +10,8 @@
         "main.blocks",
         "main.ts",
         "README.md",
-        "pxt.json"
+        "pxt.json",
+        "main.py"
     ],
     "testFiles": [
         "test.ts"
@@ -22,5 +23,5 @@
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "pyprj"
 }
